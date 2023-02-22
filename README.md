@@ -1,7 +1,6 @@
-# ThreadPool
+# ThreadPool 1.0
 C++ 简易线程池
 
-**ThreadPool 1.0** 
 
 后续继续会添加较完整的版本
 
